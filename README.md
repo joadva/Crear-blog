@@ -1,6 +1,6 @@
-# Gatsby Starter Ghost
+# Gatsby Starter 
 
-A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
+A starter template to build lightning fast websites with XpectreLbas & [Gatsby](https://gatsbyjs.org)
 
 **Demo:** https://gatsby.ghost.org
 
